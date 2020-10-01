@@ -7,7 +7,7 @@ var config = {
         "最心爱的小恐龙",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第一个生日了哦",
+        "第一个生日哦",
         "所以呢",
         "要给你一个特别一点的惊喜",
         "今年你也要",
@@ -37,7 +37,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕呢？",
         light_candle: "蜡烛呢？",
-        wish_message: "生日快乐哟",
+        wish_message: "生日快乐哟！",
         story: "A MESSAGE FOR YOU",
     }
 };
